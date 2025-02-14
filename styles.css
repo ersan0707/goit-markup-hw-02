@@ -1,0 +1,65 @@
+/* Body de Roboto ve Raleway fontları */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+/* Başlık bölümü */
+.nav-a {
+    font-family: 'Raleway', sans-serif;
+    color: #434455;
+    font-weight: 700 ;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.nav-span {
+    font-family: 'Raleway', sans-serif;
+    color: #2e2f42;  
+}
+.nav-lione {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.nav-lione:hover {
+    color: #404bbf;
+}
+.nav-lione: :focus {
+    color: #404bbf;
+}
+.nav-adres{
+    font-style: normal;
+
+}
+
+.adres-a{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+.adres-a:hover{
+    color: #404bbf ;
+}
+.adres-a:focus{
+    color: #404bbf;
+}
+/* Effective Solutions ve Buton Bölümü */
+.one-sect {
+    background-color: #2E2F42;
+    
+} 
+.onesect-h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px
+    line-height: 60;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
