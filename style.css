@@ -47,12 +47,12 @@ body {
     color: #404bbf;
 }
 /* Effective Solutions ve Buton Bölümü */
-.one-sect{
+.one-sec{
     background-color: #2e2f42;
-    padding: 72px;
+    
 
 } 
-.onesect-hone {
+.one-sechone{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -126,14 +126,13 @@ body {
 
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
-.foursect-hiki {
+.foursect-hiki{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-
 }
 
 .foursect-huc{
