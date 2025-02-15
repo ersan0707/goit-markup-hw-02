@@ -31,17 +31,14 @@ body {
 .nav-lione:focus {
     color: #404bbf;
 }
-.nav-adres{
+.nav-adres {
     font-style: normal;
-
 }
-
 .adres-a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 .adres-a:hover{
     color: #404bbf;
@@ -55,7 +52,7 @@ body {
     padding-top: 72px;
 
 } 
-.one-sect{
+.onesect-h1{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -72,15 +69,15 @@ body {
     color: #ffffff;
     cursor: pointer;
 }
-.one-secbut:hover{
+.one-sectbut:hover {
     background-color: #404BBF
 }
 
-.one-secbut:focus{
+.one-sectbut:focus {
     background-color: #404BBF;
 }
 /* Sitenin tanıtıldığı 4 maddelik o yer için css kuralları */ 
-.twosect-h3{
+.twosect-huc{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -95,19 +92,7 @@ body {
 
 
 }
-.twosect-h3{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.twosect-p{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 /* Our Team Bölümü Css kuralları */
 .team{
     background-color: #f4f4fd;
@@ -126,7 +111,7 @@ body {
     background-color: #FFFFFF;
 
 }
-.team-h3{
+.team-huc{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -141,7 +126,7 @@ body {
 
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
-.foursect-h2{
+.foursect-hıkı{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -151,7 +136,7 @@ body {
 
 }
 
-.foursect-h3{
+.foursect-huc{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
