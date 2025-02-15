@@ -6,17 +6,17 @@ body {
 }
 /* Başlık bölümü */
 .nav-a {
-    font-family: 'Raleway', sans-serif;
-    color: #434455;
-    font-weight: 700 ;
+    font-family:'Raleway', sans-serif;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color:  #4d5ae5;
 }
 .nav-span {
-    font-family: 'Raleway', sans-serif;
-    color: #2e2f42;  
+    color: #2e2f42;
+    font-family:'Raleway', sans-serif; 
 }
 .nav-lione {
     color: #2e2f42;
@@ -28,7 +28,7 @@ body {
 .nav-lione:hover {
     color: #404bbf;
 }
-.nav-lione: :focus {
+.nav-lione:focus {
     color: #404bbf;
 }
 .nav-adres{
@@ -44,22 +44,140 @@ body {
 
 }
 .adres-a:hover{
-    color: #404bbf ;
+    color: #404bbf;
 }
 .adres-a:focus{
     color: #404bbf;
 }
 /* Effective Solutions ve Buton Bölümü */
-.one-sect {
-    background-color: #2E2F42;
-    
+.one-sect{
+    background-color: #2e2f42;
+    padding-top: 72px;
+
 } 
-.onesect-h1 {
-    font-family: 'Raleway', sans-serif;
-    color: #FFFFFF;
-    font-weight: 700;
-    font-size: 56px
-    line-height: 60;
-    letter-spacing: 0.02em;
+.one-sect{
+    font-size: 56px;
+    line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    }
+.one-sectbut {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.one-secbut:hover{
+    background-color: #404BBF
+}
+
+.one-secbut:focus{
+    background-color: #404BBF;
+}
+/* Sitenin tanıtıldığı 4 maddelik o yer için css kuralları */ 
+.twosect-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.twosect-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+
+}
+.twosect-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.twosect-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/* Our Team Bölümü Css kuralları */
+.team{
+    background-color: #f4f4fd;
+
+}
+.our-team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
+.team-members{
+    background-color: #FFFFFF;
+
+}
+.team-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+/* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
+.foursect-h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
+
+.foursect-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.foursect-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+/* Footer Bölümü CSS Kurlları (a etiketi ve span etiketi header bölümündeki nav içindeki css'i kullanır) */
+
+.footer{
+    background-color: #2e2f42;
+
+}
+.footer-p{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+.logo-span{
+    color: #F4F4FD;
 }
