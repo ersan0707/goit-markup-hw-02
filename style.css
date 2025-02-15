@@ -47,10 +47,10 @@ body {
     color: #404bbf;
 }
 /* Effective Solutions ve Buton Bölümü */
+
 .one-sec{
     background-color: #2e2f42;
     
-
 } 
 .one-sechone{
     font-size: 56px;
@@ -126,6 +126,7 @@ body {
 
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
+
 .foursect-hiki{
     font-size: 36px;
     line-height: 1.11;
