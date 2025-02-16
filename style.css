@@ -50,15 +50,15 @@ body {
 .one-sect {
     background-color: #2e2f42;  
 }
-.one-sectone {
+.one-sect1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    }
- 
 
+}
+ 
 .one-sectbut {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -126,13 +126,15 @@ body {
 
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
-.foursect-hiki{
+
+.foursect-hiki {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+
 }
 
 .foursect-huc {
