@@ -40,25 +40,25 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adres-a:hover{
+.adres-a:hover {
     color: #404bbf;
 }
 .adres-a:focus{
     color: #404bbf;
 }
 /* Effective Solutions ve Buton Bölümü */
-
-.one-sec{
-    background-color: #2e2f42;
-    
-} 
-.one-sechone{
+.one-sect {
+    background-color: #2e2f42;  
+}
+.one-sectone {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
     }
+ 
+
 .one-sectbut {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -77,14 +77,14 @@ body {
     background-color: #404BBF;
 }
 /* Sitenin tanıtıldığı 4 maddelik o yer için css kuralları */ 
-.twosect-huc{
+.twosect-huc {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.twosect-p{
+.twosect-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -94,11 +94,11 @@ body {
 }
 
 /* Our Team Bölümü Css kuralları */
-.team{
+.team {
     background-color: #f4f4fd;
 
 }
-.our-team{
+.our-team {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -107,18 +107,18 @@ body {
     color: #2e2f42;
 
 }
-.team-members{
+.team-members {
     background-color: #FFFFFF;
 
 }
-.team-huc{
+.team-huc {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.team-p{
+.team-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -126,7 +126,6 @@ body {
 
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
-
 .foursect-hiki{
     font-size: 36px;
     line-height: 1.11;
@@ -136,7 +135,7 @@ body {
     color: #2e2f42;
 }
 
-.foursect-huc{
+.foursect-huc {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -144,7 +143,7 @@ body {
     color: #2e2f42;
 }
 
-.foursect-p{
+.foursect-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
