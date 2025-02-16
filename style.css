@@ -50,7 +50,7 @@ body {
 .one-sect {
     background-color: #2e2f42;  
 }
-.one-sect1 {
+.one_secth {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -127,7 +127,7 @@ body {
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
 
-.foursect-hiki {
+.foursect_Hiki {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -136,7 +136,6 @@ body {
     color: #2e2f42;
 
 }
-
 .foursect-huc {
     font-weight: 500;
     font-size: 20px;
