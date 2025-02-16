@@ -49,14 +49,14 @@ body {
 /* Effective Solutions ve Buton Bölümü */
 .one-sect {
     background-color: #2e2f42;  
+    
 }
-.one_secth {
+.one-secth {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-
 }
  
 .one-sectbut {
@@ -89,8 +89,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
-
 }
 
 /* Our Team Bölümü Css kuralları */
@@ -105,7 +103,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-
 }
 .team-members {
     background-color: #FFFFFF;
@@ -123,7 +120,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
 
@@ -134,7 +130,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-
 }
 .foursect-huc {
     font-weight: 500;
