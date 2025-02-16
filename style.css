@@ -48,17 +48,16 @@ body {
 }
 /* Effective Solutions ve Buton Bölümü */
 .one-sect {
-    background-color: #2e2f42;  
-
+    background-color: #2e2f42;
+     
 }
-.bas-lik_bir {
+.one-sectone {
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
     letter-spacing: 0.02em;
+    text-align: center; 
     color: #ffffff;
 }
- 
 .one-sectbut {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -123,7 +122,7 @@ body {
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
 
-.bas_lik-iki {
+.foursect-hiki {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
