@@ -51,7 +51,7 @@ body {
     background-color: #2e2f42;
      
 }
-.one-sectone {
+.one-sect-h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -122,7 +122,7 @@ body {
 }
 /* OUR PORTFOLYONUN OLDUĞU YER İÇİN CSS KURALLARI */
 
-.foursect-hiki {
+.foursect-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
